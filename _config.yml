@@ -26,7 +26,7 @@ author:
   avatar           : "grouplogo1.png"
   name             : #" "
   pronouns         : # example: "she/her"  
-  bio              : "The Gravitation Study Group is dedicated to exploring the fundamental principles of Einstein's theory of General Relativity and its astrophysical applications."
+  bio              : #" "
   location         : "São Paulo, Brazil"
   employer         : "Federal University of ABC"
   uri              : # URL

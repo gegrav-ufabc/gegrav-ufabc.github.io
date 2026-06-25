@@ -7,6 +7,17 @@ layout: default
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
+<!-- In _layouts/single.html, around line 10 -->
+<article class="page">
+  {% if page.title %}
+    <div class="page__header">
+      <div class="section-icon">⚛</div>  <!-- Photon icon -->
+      <h1 class="page__title">{{ page.title }}</h1>
+    </div>
+  {% endif %}
+  
+  {{ content }}
+</article>
 
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}

@@ -23,7 +23,7 @@ repository               : "gegrav-ufabc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "grouplogo.png"
+  avatar           : "grouplogo1.png"
   name             : #" "
   pronouns         : # example: "she/her"  
   bio              : "The Gravitation Study Group is dedicated to exploring the fundamental principles of Einstein's theory of General Relativity and its astrophysical applications."

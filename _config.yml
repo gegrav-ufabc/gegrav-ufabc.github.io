@@ -24,7 +24,7 @@ repository               : "gegrav-ufabc.github.io"
 author:
   # Biographic information
   avatar           : "grouplogo.png"
-  name             : "Your Sidebar Name"
+  name             : #" "
   pronouns         : # example: "she/her"  
   bio              : "The Gravitation Study Group is dedicated to exploring the fundamental principles of Einstein's theory of General Relativity and its astrophysical applications."
   location         : "São Paulo, Brazil"

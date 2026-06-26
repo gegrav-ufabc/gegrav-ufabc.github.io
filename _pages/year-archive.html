@@ -8,6 +8,8 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
+
+
 <style>
   .team-table {
     width: 100%;
@@ -24,6 +26,10 @@ redirect_from:
     padding: 10px;
     border: 1px solid var(--table-border-color);
     color: var(--text-color);
+    min-width: 50px; /* Garante tamanho mínimo */
+  }
+  .team-table td:empty::before {
+    content: "\00a0"; /* Adiciona espaço invisível */
   }
   .team-table a {
     color: var(--link-color);

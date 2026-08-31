@@ -18,7 +18,7 @@ title: "TALK TITLE"
 type: {seminar, jointseminar, colloquium}
 abstract: {true, false}
 ---
-```
+
 If the abstract is set to true, it should be written below the front matter, and will appear on the seminar page.
 If the abstract is set to false, the abstract will not be displayed on the seminar page.
 
@@ -63,3 +63,4 @@ A set of example references are included at the bottom of **_data/usingPkg.bib**
 Events can be added to the `events' tab of the website by adding them to '_data/events_and_conferences.yml'. Format instructions are given at the top of the file.
 
 Past events do not need to be removed, they will automatically be hidden from the website at the end of the month in which they occur.
+```

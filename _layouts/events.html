@@ -17,7 +17,7 @@ layout: textlay
 <h1>Events and Conferences</h1>
 {% assign events_year = future_events | group_by_exp:"event","event.date | date: '%Y' | times:1" | sort: "name" %}
 <ul>
-  {% for year in events_year | where: year.name >=  %}
+  {% for year in events_year %}
     <h3>{{ year.name }}</h3>
       {% assign events_month = year.items | group_by_exp:"event","event.date | date: '%m' | plus:-1" | sort: "name" %}
       {% for month in events_month %}

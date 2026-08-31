@@ -1,14 +1,15 @@
-# [Quantum Group Website](https://quantumghent.github.io)
+# [Gravity Group Website](https://gegrav.ufabc.github.io)
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch.
 
 Forked from the [Allan Lab](http://www.allanlab.org) site. Code released under the MIT License.
 
+```
+
 ## Seminars
 
 Seminars are added by adding a file to the **_seminars** directory. The file should be named with the following format: **YYYY-MM-DD-Title.md**. The file should contain the following front matter:
 
-```
 ---
 date: "YYYY-MM-DDTHH:MM:SS"
 speaker: SPEAKER NAME

@@ -1,7 +1,7 @@
 ---
-title: "QuantumGroup@UGent - Events and Conferences"
+title: "GeGRAV@UFABC - Events and Conferences"
 layout: events
-excerpt: "QuantumGroup@UGent -- Events amd Conferences."
+excerpt: "GeGRAV@UFABC -- Events amd Conferences."
 sitemap: false
 permalink: /events.html
 ---

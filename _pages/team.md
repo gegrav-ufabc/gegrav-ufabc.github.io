@@ -1,7 +1,7 @@
 ---
-title: "QuantumGroup@UGent - Members"
+title: "GeGRAV@UFABC - Members"
 layout: gridlay
-excerpt: "QuantumGroup@UGent --- Team members."
+excerpt: "GeGRAV@UFABC --- Team members."
 sitemap: false
 permalink: /team/
 ---

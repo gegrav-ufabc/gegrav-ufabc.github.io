@@ -52,5 +52,4 @@ GeGRAV @ UAFBC<br>
 </div>
 <div align="justify">
 <p class="lead"><a href="/research/">Research</a> in the Gravitation Study Group (Grupo de Estudo em Gravitação - GeGRAV) is dedicated to exploring the fundamental principles of Einstein’s theory of General Relativity and its astrophysical applications. Through regular seminars and collaborative discussions, we investigate topics ranging from black hole physics to gravitational waves and cosmology. Our mission is to foster deep understanding, critical thinking, and scientific exchange among students and researchers alike. 
-   <!-- <a href="/bec/">first Belgian lab hosting a Bose-Einstein Condensate</a>.</p> -->
 </div>

@@ -14,91 +14,91 @@
   email: sander.demeyer@ugent.be
   github: sanderdemeyer
 
-- name: Boris De Vos
-  sname: De Vos
-  photo: FOTOBorisDeVos.jpg
-  info: PhD student since 2023
-  email: Boris.DeVos@UGent.be
+#- name: Boris De Vos
+#  sname: De Vos
+#  photo: FOTOBorisDeVos.jpg
+#  info: PhD student since 2023
+#  email: Boris.DeVos@UGent.be
 
-- name: Gleb Fedorovich
-  sname: Fedorovich
-  # photo: 
-  orcid: 0000-0002-7664-0384
-  info: FWO PhD student since 2024
-  email: Gleb.Fedorovich@UGent.be
+#- name: Gleb Fedorovich
+#  sname: Fedorovich
+#  # photo: 
+#  orcid: 0000-0002-7664-0384
+#  info: FWO PhD student since 2024
+#  email: Gleb.Fedorovich@UGent.be
 
-- name: Akshay Shankar
-  sname: Shankar
-  photo: IMGAkshay.jpg
-  site: https://20akshay00.github.io/
-  info: PhD student since 2023
-  email: akshay.shankar@ugent.be
-  github: 20akshay00
+#- name: Akshay Shankar
+#  sname: Shankar
+#  photo: IMGAkshay.jpg
+#  site: https://20akshay00.github.io/
+#  info: PhD student since 2023
+#  email: akshay.shankar@ugent.be
+# github: 20akshay00
 
-- name: Clara Tanghe
-  sname: Tanghe
-  photo: FOTOclaratanghe.jpg
-  info: FWO PhD student since 2021
-  email: clara.tanghe@ugent.be
+#- name: Clara Tanghe
+#  sname: Tanghe
+#  photo: FOTOclaratanghe.jpg
+#  info: FWO PhD student since 2021
+#  email: clara.tanghe@ugent.be
 
-- name: Bram Vancraeynest-De Cuiper
-  sname: Vancraeynest-De Cuiper
-  photo: FOTObramvancraeynest.jpg
-  info: FWO PhD student since 2021
-  email: bram.vancraeynestdecuiper@ugent.be
-  scholar: EucAISwAAAAJ
+#- name: Bram Vancraeynest-De Cuiper
+#  sname: Vancraeynest-De Cuiper
+#  photo: FOTObramvancraeynest.jpg
+#  info: FWO PhD student since 2021
+#  email: bram.vancraeynestdecuiper@ugent.be
+#  scholar: EucAISwAAAAJ
 
-- name: Victor Vanthilt
-  sname: Vanthilt
-  photo: FotoVictor.png
-  info: FWO PhD student since 2024
-  email: victor.vanthilt@ugent.be
-  github: VictorVanthilt
-  scholar: nzNK1woAAAAJ
+#- name: Victor Vanthilt
+#  sname: Vanthilt
+#  photo: FotoVictor.png
+#  info: FWO PhD student since 2024
+#  email: victor.vanthilt@ugent.be
+#  github: VictorVanthilt
+#  scholar: nzNK1woAAAAJ
 
-- name: Kevin Vervoort
-  sname: Vervoort
-  info: PhD student since 2022
-  email: kevin.vervoort@ugent.be
+#- name: Kevin Vervoort
+#  sname: Vervoort
+#  info: PhD student since 2022
+#  email: kevin.vervoort@ugent.be
 
-- name: Adwait Naravane
-  sname: Naravane
-  photo: FOTOAdwait.jpg
-  info: PhD student since 2024
-  email: adwaitnaravane@gmail.com
-  github: Adwait-Naravane
+#- name: Adwait Naravane
+#  sname: Naravane
+#  photo: FOTOAdwait.jpg
+#  info: PhD student since 2024
+#  email: adwaitnaravane@gmail.com
+#  github: Adwait-Naravane
 
-- name: Anton Martin
-  sname: Martin
-  photo: FOTOAntonMartin.jpg
-  info: PhD student since 2024
-  email: anton.martin@ugent.be
-  github: AntonMartin12
+#- name: Anton Martin
+#  sname: Martin
+#  photo: FOTOAntonMartin.jpg
+#  info: PhD student since 2024
+#  email: anton.martin@ugent.be
+#  github: AntonMartin12
 
-- name: Arthur Bril
-  sname: Bril
-  photo: FotoArthurBril.jpg
-  info: PhD student since 2024
-  email: arthur.bril@ugent.be
-  github: ArthurBril123
+#- name: Arthur Bril
+#  sname: Bril
+#  photo: FotoArthurBril.jpg
+#  info: PhD student since 2024
+#  email: arthur.bril@ugent.be
+#  github: ArthurBril123
 
-- name: Anka Van de Walle
-  sname: Van de Walle
-  photo: foto_anka.jpeg
-  info: PhD student since 2025
-  email: anka.vandewalle@ugent.be
+#- name: Anka Van de Walle
+#  sname: Van de Walle
+#  photo: foto_anka.jpeg
+#  info: PhD student since 2025
+#  email: anka.vandewalle@ugent.be
 
-- name: Mina-Lou Schleith
-  sname: Schleith
-  photo: FOTOMinaLou.JPG
-  info: PhD student since 2025
-  email: minalou.schleith@ugent.be 
+#- name: Mina-Lou Schleith
+#  sname: Schleith
+#  photo: FOTOMinaLou.JPG
+#  info: PhD student since 2025
+#  email: minalou.schleith@ugent.be 
 
-- name: Vic Vander Linden
-  sname: Linden
-  photo: FOTOVic.jpeg
-  info: PhD student since 2025
-  email: vic.vanderlinden@ugent.be
+#- name: Vic Vander Linden
+#  sname: Linden
+#  photo: FOTOVic.jpeg
+#  info: PhD student since 2025
+#  email: vic.vanderlinden@ugent.be
   
 #- name: Tom Vieijra
 #  photo: bb.jpg

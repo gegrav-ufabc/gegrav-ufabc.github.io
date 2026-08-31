@@ -1,13 +1,13 @@
 ---
-title: "QuantumGroup@UGent"
+title: "GeGRAV@UFABC"
 layout: homelay
-excerpt: "Quantum Group at Ghent University."
+excerpt: "GeGRAV at UFABC."
 sitemap: false
 permalink: /
 ---
 <div class="page-header">
 <h1>
-Quantum Group @ UGent<br>
+GeGRAV @ UAFBC<br>
 <small>Exploring Tensor Networks & Quantum Entanglement</small>
 </h1>
 </div>

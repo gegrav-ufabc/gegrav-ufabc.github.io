@@ -8,7 +8,7 @@ permalink: /
 <div class="page-header">
 <h1>
 GeGRAV @ UAFBC<br>
-<small>Exploring Tensor Networks & Quantum Entanglement</small>
+<small>Exploring gravity, from black holes to the cosmos</small>
 </h1>
 </div>
 

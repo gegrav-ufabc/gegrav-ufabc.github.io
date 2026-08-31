@@ -16,56 +16,56 @@
   github: leburgel
 
 
-- name: Nai Chao Hu
-  sname: Hu
+#- name: Nai Chao Hu
+#  sname: Hu
   # photo: 
   # email: 
-  orcid: 0000-0003-4662-9894
-  info: PostDoc since 2023
-  scholar: JmO3h3sAAAAJ
+#  orcid: 0000-0003-4662-9894
+#  info: PostDoc since 2023
+#  scholar: JmO3h3sAAAAJ
 
-- name: Wei Tang
-  sname: Tang
-  photo: FOTOWeiTang.jpg
-  github: tangwei94
-  orcid: 0000-0001-8723-363X
-  email: wei.tang@ugent.be
-  info: FWO PostDoc since 2024
-  scholar: BSkYq1QAAAAJ
+#- name: Wei Tang
+#  sname: Tang
+#  photo: FOTOWeiTang.jpg
+#  github: tangwei94
+#  orcid: 0000-0001-8723-363X
+#  email: wei.tang@ugent.be
+#  info: FWO PostDoc since 2024
+#  scholar: BSkYq1QAAAAJ
 
-- name: Atsushi Ueda
-  sname: Ueda
-  photo: FOTOau.jpg
-  github: dartsushi
-  info: FWO PostDoc since 2025
-  email: atsushi.ueda@ugent.be
-  scholar: l2mt3nEAAAAJ
+#- name: Atsushi Ueda
+#  sname: Ueda
+#  photo: FOTOau.jpg
+#  github: dartsushi
+#  info: FWO PostDoc since 2025
+#  email: atsushi.ueda@ugent.be
+#  scholar: l2mt3nEAAAAJ
 
-- name: Xu Zhang
-  sname: Zhang
-  photo: FOTOxu.jpg
-  info: PostDoc since 2024
-  email: xzhangzh.Zhang@ugent.be
-  scholar: p7FO_BoAAAAJ
-  site: https://deadworm.github.io
+#- name: Xu Zhang
+#  sname: Zhang
+#  photo: FOTOxu.jpg
+#  info: PostDoc since 2024
+#  email: xzhangzh.Zhang@ugent.be
+#  scholar: p7FO_BoAAAAJ
+#  site: https://deadworm.github.io
 
-- name: Xingyu Zhang
-  sname: Zhang
-  info: PostDoc since 2024
-  email: Xingyu.Zhang@UGent.be
+#- name: Xingyu Zhang
+#  sname: Zhang
+#  info: PostDoc since 2024
+#  email: Xingyu.Zhang@UGent.be
 
-- name: Yuchi He
-  sname: He
-  info: PostDoc since 2024
-  email: Yuchi.He@UGent.be
+#- name: Yuchi He
+#  sname: He
+#  info: PostDoc since 2024
+#  email: Yuchi.He@UGent.be
 
-- name: Jagannath Sutradhar
-  sname: Sutradhar
-  info: PostDoc since 2025
-  email: Jagannath.Sutradhar@UGent.be
+#- name: Jagannath Sutradhar
+#  sname: Sutradhar
+#  info: PostDoc since 2025
+#  email: Jagannath.Sutradhar@UGent.be
 
-- name: Katharine Hyatt
-  sname: Hyatt
-  info: PostDoc since 2025
-  email: Katharine.Hyatt@ugent.be
-  github: kshyatt
+#- name: Katharine Hyatt
+#  sname: Hyatt
+#  info: PostDoc since 2025
+#  email: Katharine.Hyatt@ugent.be
+#  github: kshyatt

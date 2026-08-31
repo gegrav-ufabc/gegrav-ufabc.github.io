@@ -1,7 +1,7 @@
 ---
-title: "QuantumGroup@UGent - Masters thesis"
+title: "GeGRAV@UFABC - Masters thesis"
 layout: thesistopics
-excerpt: "QuantumGroup@UGent -- Masters thesis topics"
+excerpt: "GeGRAV@UFABC -- Masters thesis topics"
 sitemap: false
 permalink: /thesistopics.html
 ---

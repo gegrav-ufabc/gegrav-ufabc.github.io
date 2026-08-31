@@ -1,7 +1,7 @@
 ---
-title: "QuantumGroup@UGent - Seminars"
+title: "GeGRAV@UFABC - Seminars"
 layout: calendar
-excerpt: "QuantumGroup@UGent -- Seminars."
+excerpt: "GeGRAV@UFABC -- Seminars."
 sitemap: false
 permalink: /seminars.html
 ---

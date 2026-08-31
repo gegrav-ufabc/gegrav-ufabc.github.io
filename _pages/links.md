@@ -1,7 +1,7 @@
 ---
-title: "QuantumGroup@UGent - Useful links"
+title: "GeGRAV@UFABC - Useful links"
 layout: gridlay
-excerpt: "QuantumGroup@UGent -- Useful links and external references."
+excerpt: "GeGRAV@UFABC -- Useful links and external references."
 sitemap: false
 permalink: /links/
 ---

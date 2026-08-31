@@ -1,7 +1,7 @@
 ---
-title: "QuantumGroup@UGent - Research"
+title: "GeGRAV@UFABC - Research"
 layout: textwithmath
-excerpt: "QuantumGroup@UGent -- Research."
+excerpt: "GeGRAV@UFABC -- Research."
 sitemap: false
 permalink: /research/
 ---

@@ -92,10 +92,10 @@ Our group has developed several publicly available (and thus open source) softwa
 
 * Julia code for the 2018 European Tensor Network School: [Jutho/TNSchool2018](https://github.com/Jutho/TNSchool2018)
 
-{% capture pubsUsingPkg %}{%  bibliography_count -f usingPkg -q @Article[key!=ExampleArticle]* @Preprint[key!=ExamplePreprint]* @Thesis* @PhdThesis[key!=ExamplePhD]* @MastersThesis[key!=ExampleMasters]* @HonoursThesis* %}{% endcapture %}
+{% capture pubsUsingPkg %}{% bibliography -f usingPkg -q @Article[key!=ExampleArticle]* @Preprint[key!=ExamplePreprint]* @Thesis* @PhdThesis[key!=ExamplePhD]* @MastersThesis[key!=ExampleMasters]* @HonoursThesis* --count %}{% endcapture %}
 {% assign pubsUsingPkg = pubsUsingPkg | plus: 0 %}
 
-{% capture pkgUsingPkg %}{%  bibliography_count -f usingPkg -q @Package[key!=ExamplePackage]* --group_by none %}{% endcapture %}
+{% capture pkgUsingPkg %}{% bibliography -f usingPkg -q @Package[key!=ExamplePackage]* --group_by none --count %}{% endcapture %}
 {% assign pkgUsingPkg = pkgUsingPkg | plus: 0 %}
 
 {% if pubsUsingPkg > 0 %}

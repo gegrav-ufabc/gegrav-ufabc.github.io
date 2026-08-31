@@ -1,31 +1,31 @@
-- name: Nick Bultinck
-  sname: Bultinck
-  photo: FOTONick.jpg
+- name: Maurício Richartz
+  sname: M. Richartz
+  #photo: FOTONick.jpg
   info: Professor
-  email: nibultinck@gmail.com
-  scholar: 2RefFJoAAAAJ
-  
+  email: mauricio.richartz@ufabc.edu.br
+  #scholar: https://scholar.google.com/citations?user=EOjrw9gAAAAJ&hl=pt-BR&oi=sra
+  site: https://scholar.google.com/citations?user=EOjrw9gAAAAJ&hl=pt-BR&oi=sra
 
-- name: Jutho Haegeman
-  sname: Haegeman
-  photo: FOTOjutho.jpg
-  info: Professor
-  email: jutho.haegeman@ugent.be
-  scholar: yfHe3OAAAAAJ
-  github: Jutho
+#- name: Jutho Haegeman
+#  sname: Haegeman
+#  photo: FOTOjutho.jpg
+#  info: Professor
+#  email: jutho.haegeman@ugent.be
+#  scholar: yfHe3OAAAAAJ
+#  github: Jutho
 
-- name: Karel Van Acoleyen
-  sname: Van Acoleyen
-  photo: FotoKarel.png
-  info: Professor
-  email: karel.vanacoleyen@ugent.be
-  scholar: hteD_jEAAAAJ
-  twitter: k_vanacoleyen
+#- name: Karel Van Acoleyen
+#  sname: Van Acoleyen
+#  photo: FotoKarel.png
+#  info: Professor
+#  email: karel.vanacoleyen@ugent.be
+#  scholar: hteD_jEAAAAJ
+#  twitter: k_vanacoleyen
 
-- name: Frank Verstraete
-  sname: Verstraete
-  photo: FOTOfrankverstraete.JPG
-  info: Professor
-  email: frank.verstraete@ugent.be
-  site: https://quantumghent.github.io/frank/
-  scholar: wBrDPIEAAAAJ
+#- name: Frank Verstraete
+#  sname: Verstraete
+#  photo: FOTOfrankverstraete.JPG
+#  info: Professor
+#  email: frank.verstraete@ugent.be
+# site: https://quantumghent.github.io/frank/
+# scholar: wBrDPIEAAAAJ

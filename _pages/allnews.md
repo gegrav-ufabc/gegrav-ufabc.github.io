@@ -1,7 +1,7 @@
 ---
-title: "QuantumGroup@UGent - News"
+title: "GeGRAV@UFABC - News"
 layout: textlay
-excerpt: "Quantum News at Ghent University."
+excerpt: "Gravity Group at UFABC."
 sitemap: false
 permalink: /allnews.html
 ---

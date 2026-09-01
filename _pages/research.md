@@ -264,8 +264,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_quantumfieldtheory" aria-expanded="true" aria-controls="text_quantumfieldtheory">
   <text transform="matrix(1, 0, 0, 1, 521.609, 582)">
-	<tspan x="-66.18" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">QFT in</tspan>
-	<tspan x="-30.408" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">Curved Space</tspan>
+	<tspan x="-40.18" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">QFT in</tspan>
+	<tspan x="-40.408" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">Curved Space</tspan>
   </text>
   </a>
   <g>
@@ -425,9 +425,9 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_nonequilibriumquantumphysics" aria-expanded="false" aria-controls="text_nonequilibriumquantumphysics">
   <text transform="matrix(1, 0, 0, 1, 833.609, 155.5)">
-	<tspan x="-75.108" y="-25.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Hawking Radiation </tspan>
-	<tspan x="-45.996" y="3.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">quantum </tspan>
-	<tspan x="-38.88" y="32.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">physics</tspan>
+	<tspan x="-75.108" y="-25.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Hawking</tspan>
+	<tspan x="-45.996" y="3.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Radiation  </tspan>
+	<!-- <tspan x="-38.88" y="32.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">physics</tspan>-->
   </text>
   </a>
   <g>
@@ -439,8 +439,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_symmetriesalgebrascategories" aria-expanded="false" aria-controls="text_symmetriesalgebrascategories">
   <text transform="matrix(1, 0, 0, 1, 868.584, 516.75)">
-	<tspan x="-62.436" y="-24.25" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Unruh Effect</tspan>
-	<!-- <tspan x="-54.684" y="4.75" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">algebras &amp;</tspan> -->
+	<!-- <tspan x="-62.436" y="-24.25" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Unruh Effect</tspan>-->
+	<tspan x="-54.684" y="4.75" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Unruh Effect &amp;</tspan> 
 	<!-- <tspan x="-53.58" y="33.75" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">categories</tspan> -->
   </text>
   </a>

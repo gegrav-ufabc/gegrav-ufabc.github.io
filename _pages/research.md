@@ -264,8 +264,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_quantumfieldtheory" aria-expanded="true" aria-controls="text_quantumfieldtheory">
   <text transform="matrix(1, 0, 0, 1, 521.609, 582)">
-	<tspan x="-42.18" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">QFT in Curved</tspan>
-	<tspan x="-40.408" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">Space</tspan>
+	<tspan x="-45.18" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">QFT in Curved</tspan>
+	<tspan x="-38.408" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">Space</tspan>
   </text>
   </a>
   <g>
@@ -305,8 +305,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_coldatoms" aria-expanded="false" aria-controls="text_coldatoms">
   <text transform="matrix(1, 0, 0, 1, 390, 462)">
-	<tspan x="-22.008" y="-7" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Effective</tspan>
-	<tspan x="-32.22" y="22" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Metrics</tspan>
+	<tspan x="-32.008" y="-7" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Effective</tspan>
+	<tspan x="-30.22" y="22" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Metrics</tspan>
   </text>
   </a>
   <g>
@@ -318,8 +318,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_quantumcomputing" aria-expanded="false" aria-controls="text_quantumcomputing">
   <text transform="matrix(1, 0, 0, 1, 150, 240.75)">
-	<tspan x="-45.996" y="-12.25" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Hydrodynamic </tspan>
-	<tspan x="-55.116" y="16.75" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Analogies</tspan>
+	<tspan x="-55.996" y="-12.25" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Hydrodynamic </tspan>
+	<tspan x="-53.116" y="16.75" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Analogies</tspan>
   </text>
   </a>
   <g>
@@ -384,9 +384,9 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_stronglycorrelatedsystems" aria-expanded="false" aria-controls="text_stronglycorrelatedsystems">
   <text transform="matrix(1, 0, 0, 1, 689.609, 455.5)">
-	<tspan x="-40.452" y="-25.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">strongly</tspan>
-	<tspan x="-51.588" y="3.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">correlated</tspan>
-	<tspan x="-42.648" y="32.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">systems</tspan>
+	<!--<tspan x="-40.452" y="-25.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"></tspan>-->
+	<tspan x="-51.588" y="3.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Semiclassical</tspan>
+	<tspan x="-42.648" y="32.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Gravity</tspan>
   </text>
   </a>
   <g>

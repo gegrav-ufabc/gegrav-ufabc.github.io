@@ -7,52 +7,52 @@
 #  github:
 #  twitter:
 
-- name: Sander De Meyer
-  sname: De Meyer
-  photo: FOTOSanderDeMeyer.jpg
-  info: FWO PhD student since 2024
-  email: sander.demeyer@ugent.be
-  github: sanderdemeyer
+- name: Eduardo Albacete
+  sname: Eduardo
+  #photo: FOTOSanderDeMeyer.jpg
+  info: PhD student
+  email: eduardo.albacete@ufabc.edu.br
+  #github: sanderdemeyer
 
-#- name: Boris De Vos
-#  sname: De Vos
-#  photo: FOTOBorisDeVos.jpg
-#  info: PhD student since 2023
-#  email: Boris.DeVos@UGent.be
+- name: Enzo Boschilia Vita
+  sname: Enzo
+  #photo: FOTOBorisDeVos.jpg
+  info: PhD student
+  email: enzo.vita@ufabc.edu.br
 
-#- name: Gleb Fedorovich
-#  sname: Fedorovich
-#  # photo: 
-#  orcid: 0000-0002-7664-0384
-#  info: FWO PhD student since 2024
-#  email: Gleb.Fedorovich@UGent.be
+- name: Gabriel Maia Leão
+  sname: Gabriel
+  # photo: 
+  #orcid: 0000-0002-7664-0384
+  info: PhD student
+  email: gabriel.maia@ufabc.edu.br
 
-#- name: Akshay Shankar
-#  sname: Shankar
+- name: Lucas Tobias de Paula
+  sname: Lucas
 #  photo: IMGAkshay.jpg
 #  site: https://20akshay00.github.io/
-#  info: PhD student since 2023
-#  email: akshay.shankar@ugent.be
+  info: PhD student
+  email: tobias.l@ufabc.edu.br
 # github: 20akshay00
 
-#- name: Clara Tanghe
-#  sname: Tanghe
+- name: Mário Raia Neto
+  sname: Mário
 #  photo: FOTOclaratanghe.jpg
-#  info: FWO PhD student since 2021
-#  email: clara.tanghe@ugent.be
+  info: PhD student
+  email: m.raia@ufabc.edu.br
 
-#- name: Bram Vancraeynest-De Cuiper
-#  sname: Vancraeynest-De Cuiper
+- name: Murillo Spadin Domingues
+  sname: Murillo
 #  photo: FOTObramvancraeynest.jpg
-#  info: FWO PhD student since 2021
-#  email: bram.vancraeynestdecuiper@ugent.be
+  info: PhD student
+  email: murillo.spadin@ufabc.edu.br
 #  scholar: EucAISwAAAAJ
 
-#- name: Victor Vanthilt
-#  sname: Vanthilt
+- name: Pedro de Carvalho Zottolo
+  sname: Pedro
 #  photo: FotoVictor.png
-#  info: FWO PhD student since 2024
-#  email: victor.vanthilt@ugent.be
+  info: FWO PhD student
+  email: pedro.zottolo@ufabc.edu.br
 #  github: VictorVanthilt
 #  scholar: nzNK1woAAAAJ
 

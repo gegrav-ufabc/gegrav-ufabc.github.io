@@ -238,8 +238,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_quantumentanglement" aria-expanded="false" aria-controls="text_quantumentanglement">
   <text transform="matrix(1, 0, 0, 1, 173.609, 378)">
-	<tspan x="-42.42" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">quantum</tspan>
-	<tspan x="-65.52" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">entanglement</tspan>
+	<tspan x="-42.42" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">analogue</tspan>
+	<tspan x="-65.52" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">gravity</tspan>
   </text>
   </a>
   <g>
@@ -251,7 +251,7 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_manybodyphysics" aria-expanded="false" aria-controls="text_manybodyphysics">
   <text transform="matrix(1, 0, 0, 1, 833.609, 342)">
-	<tspan x="-53.964" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">many-body</tspan>
+	<tspan x="-53.964" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">black hole</tspan>
 	<tspan x="-36.42" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">physics</tspan>
   </text>
   </a>
@@ -264,8 +264,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_quantumfieldtheory" aria-expanded="true" aria-controls="text_quantumfieldtheory">
   <text transform="matrix(1, 0, 0, 1, 521.609, 582)">
-	<tspan x="-66.18" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">quantum field</tspan>
-	<tspan x="-30.408" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">theory</tspan>
+	<tspan x="-66.18" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">quantum field theor</tspan>
+	<tspan x="-30.408" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">in curved space</tspan>
   </text>
   </a>
   <g>

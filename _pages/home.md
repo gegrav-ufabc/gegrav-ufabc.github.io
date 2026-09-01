@@ -7,7 +7,7 @@ permalink: /
 ---
 <div class="page-header">
 <h1>
-GeGRAV @ UAFBC<br>
+GeGRAV @ UFABC<br>
 <small>Exploring gravity, from black holes to the cosmos</small>
 </h1>
 </div>

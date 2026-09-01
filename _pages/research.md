@@ -239,7 +239,7 @@ permalink: /research/
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_quantumentanglement" aria-expanded="false" aria-controls="text_quantumentanglement">
   <text transform="matrix(1, 0, 0, 1, 173.609, 378)">
 	<tspan x="-42.42" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">analogue</tspan>
-	<tspan x="-65.52" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">gravity</tspan>
+	<tspan x="-38.52" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">gravity</tspan>
   </text>
   </a>
   <g>
@@ -264,8 +264,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_quantumfieldtheory" aria-expanded="true" aria-controls="text_quantumfieldtheory">
   <text transform="matrix(1, 0, 0, 1, 521.609, 582)">
-	<tspan x="-40.18" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">QFT in</tspan>
-	<tspan x="-40.408" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">Curved Space</tspan>
+	<tspan x="-42.18" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">QFT in Curved</tspan>
+	<tspan x="-40.408" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">Space</tspan>
   </text>
   </a>
   <g>
@@ -305,8 +305,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_coldatoms" aria-expanded="false" aria-controls="text_coldatoms">
   <text transform="matrix(1, 0, 0, 1, 390, 462)">
-	<tspan x="-22.008" y="-7" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">cold</tspan>
-	<tspan x="-32.22" y="22" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">atoms</tspan>
+	<tspan x="-22.008" y="-7" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Effective</tspan>
+	<tspan x="-32.22" y="22" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Metrics</tspan>
   </text>
   </a>
   <g>
@@ -318,8 +318,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_quantumcomputing" aria-expanded="false" aria-controls="text_quantumcomputing">
   <text transform="matrix(1, 0, 0, 1, 150, 240.75)">
-	<tspan x="-45.996" y="-12.25" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">quantum </tspan>
-	<tspan x="-55.116" y="16.75" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">computing</tspan>
+	<tspan x="-45.996" y="-12.25" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Hydrodynamic </tspan>
+	<tspan x="-55.116" y="16.75" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Analogies</tspan>
   </text>
   </a>
   <g>
@@ -425,8 +425,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_nonequilibriumquantumphysics" aria-expanded="false" aria-controls="text_nonequilibriumquantumphysics">
   <text transform="matrix(1, 0, 0, 1, 833.609, 155.5)">
-	<tspan x="-75.108" y="-25.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Hawking</tspan>
-	<tspan x="-45.996" y="3.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Radiation  </tspan>
+	<tspan x="-45.108" y="-25.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Hawking</tspan>
+	<tspan x="-45.996" y="3.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Radiation</tspan>
 	<!-- <tspan x="-38.88" y="32.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">physics</tspan>-->
   </text>
   </a>
@@ -440,7 +440,7 @@ permalink: /research/
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_symmetriesalgebrascategories" aria-expanded="false" aria-controls="text_symmetriesalgebrascategories">
   <text transform="matrix(1, 0, 0, 1, 868.584, 516.75)">
 	<!-- <tspan x="-62.436" y="-24.25" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Unruh Effect</tspan>-->
-	<tspan x="-54.684" y="4.75" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Unruh Effect &amp;</tspan> 
+	<tspan x="-54.684" y="4.75" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Unruh Effect</tspan> 
 	<!-- <tspan x="-53.58" y="33.75" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">categories</tspan> -->
   </text>
   </a>

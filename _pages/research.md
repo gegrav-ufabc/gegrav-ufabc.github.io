@@ -264,8 +264,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_quantumfieldtheory" aria-expanded="true" aria-controls="text_quantumfieldtheory">
   <text transform="matrix(1, 0, 0, 1, 521.609, 582)">
-	<tspan x="-45.18" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">QFT in Curved</tspan>
-	<tspan x="-38.408" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">Space</tspan>
+	<tspan x="-65.18" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">QFT in Curved</tspan>
+	<tspan x="-35.408" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">Space</tspan>
   </text>
   </a>
   <g>
@@ -291,9 +291,9 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_projectedentangledpairstates" aria-expanded="false" aria-controls="text_projectedentangledpairstates">
   <text transform="matrix(1, 0, 0, 1, 546, 383.364)">
-	<tspan x="-48.468" y="-25.636" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">projected </tspan>
-	<tspan x="-73.356" y="3.364" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">entangled pair </tspan>
-	<tspan x="-31.104" y="32.364" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">states</tspan>
+	<tspan x="-48.468" y="-25.636" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Gravitational</tspan>
+	<tspan x="-73.356" y="3.364" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Analogies</tspan>
+	<!--<tspan x="-31.104" y="32.364" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">states</tspan>-->
   </text>
   </a>
   <g>

@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-## Senior staff
+##  Head of Research Group
 
 {% assign number_printed = 0 %}
 {% assign staff = site.data.staff | sort: "sname","last" %}
@@ -24,7 +24,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Postdoctoral researchers
+## Postdoctoral Researchers
 
 {% assign number_printed = 0 %}
 {% assign postdocs = site.data.postdocs | sort: "sname","last" %}
@@ -40,7 +40,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## PhD students
+## PhD and Master Students
 
 {% assign number_printed = 0 %}
 {% assign phds = site.data.phds | sort: "sname","last" %}
@@ -56,7 +56,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Former members
+## Former Members
 
 {% assign number_printed = 0 %}
 {% assign alumni = site.data.alumni | sort: "sname","last" %}
@@ -73,9 +73,9 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Administrative Support
+<!--## Administrative Support
 
-<a href="mailto:inge.vandervennet@ugent.be">Inge Van der Vennet</a> is helping us (and other groups) with administration.
+<a href="mailto:inge.vandervennet@ugent.be">Inge Van der Vennet</a> is helping us (and other groups) with administration.-->
 
 ## More pictures of the team
 

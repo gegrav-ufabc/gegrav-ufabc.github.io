@@ -17,14 +17,14 @@
 - name: Enzo Boschilia Vita
   sname: Enzo
   #photo: FOTOBorisDeVos.jpg
-  info: PhD student
+  info: Master student
   email: enzo.vita@ufabc.edu.br
 
 - name: Gabriel Maia Leão
   sname: Gabriel
   # photo: 
   #orcid: 0000-0002-7664-0384
-  info: PhD student
+  info: Master student
   email: gabriel.maia@ufabc.edu.br
 
 - name: Lucas Tobias de Paula
@@ -38,7 +38,7 @@
 - name: Mário Raia Neto
   sname: Mário
 #  photo: FOTOclaratanghe.jpg
-  info: PhD student
+  info: Master student
   email: m.raia@ufabc.edu.br
 
 - name: Murillo Spadin Domingues
@@ -51,7 +51,7 @@
 - name: Pedro de Carvalho Zottolo
   sname: Pedro
 #  photo: FotoVictor.png
-  info: FWO PhD student
+  info: PhD student
   email: pedro.zottolo@ufabc.edu.br
 #  github: VictorVanthilt
 #  scholar: nzNK1woAAAAJ

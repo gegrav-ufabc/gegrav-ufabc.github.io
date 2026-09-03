@@ -10,8 +10,8 @@ title: GeGRAV @ UFABC
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website for the UGent Quantum Group of Jutho Haegeman and Frank Verstraete
-baseurl: 'gegrav.ufabc.github.io'
-url: ''
+baseurl: ""
+url: "https://gegrav-ufabc.github.io"
 future: true # produce pages for future talks
 timezone: Brazil/São Paulo
 

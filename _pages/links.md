@@ -8,15 +8,15 @@ permalink: /links/
 # Useful links and external references
 
 Useful links
-* [Belgian Quantum Physics Initiative](https://www.nathan-goldman-physics.com/bqi-meetings)
-* [European Tensor Network](http://quantumtensor.pks.mpg.de)
-* [TensorNetwork.org](http://tensornetwork.org)
-* [Tensors.net](https://www.tensors.net)
-* [TensorTrace](https://www.tensortrace.com)
+* [CMCC - UFABC]([http://quantumtensor.pks.mpg.de](https://cmcc.ufabc.edu.br))
+* [GeGRAV GitHub]([https://github.com/gegrav-ufabc/gegrav-ufabc.github.io](https://github.com/gegrav-ufabc))
+* [FAPESP](https://fapesp.br)
+<!--* [Tensors.net](https://www.tensors.net)
+* [TensorTrace](https://www.tensortrace.com)-->
 
-Other open-source tensor network packages
-* [quimb](https://github.com/jcmgray/quimb)
-* [ITensor and ITensors.jl](http://itensor.org)
-* [Tensor Network by Google](https://github.com/google/TensorNetwork)
-* [Tensor Network Python (TeNPy)](https://github.com/tenpy/tenpy)
-* [Uni10](http://yingjerkao.github.io/uni10/)
+Other open-source packages and repository
+* [Zenodo]([https://github.com/jcmgray/quimb](https://zenodo.org))
+* [Julia Language]([http://itensor.org](https://julialang.org))
+* [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
+* [Python](https://www.python.org)
+* [GitHub](https://github.com)

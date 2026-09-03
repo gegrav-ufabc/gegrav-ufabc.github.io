@@ -358,8 +358,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_entanglementscaling" aria-expanded="false" aria-controls="text_entanglementscaling">
   <text transform="matrix(1, 0, 0, 1, 173.048, 497.5)">
-	<tspan x="-70.236" y="-6.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> ? </tspan>
-	<tspan x="-35.784" y="22.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> </tspan>
+	<tspan x="-70.236" y="-6.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">  </tspan>
+	<tspan x="-35.784" y="22.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> ? </tspan>
   </text>
   </a>
   <g>
@@ -398,8 +398,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_algorithmssimulations" aria-expanded="false" aria-controls="text_algorithmssimulations">
   <text transform="matrix(1, 0, 0, 1, 666, 107.5)">
-	<tspan x="-53.556" y="-25.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> ? </tspan>
-	<tspan x="-7.332" y="3.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">&amp;</tspan>
+	<tspan x="-53.556" y="-25.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> </tspan>
+	<tspan x="-7.332" y="3.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> ? </tspan>
 	<tspan x="-57.54" y="32.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> </tspan>
   </text>
   </a>

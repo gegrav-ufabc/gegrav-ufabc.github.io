@@ -8,15 +8,15 @@ permalink: /links/
 # Useful links and external references
 
 Useful links
-* [CMCC - UFABC]([http://quantumtensor.pks.mpg.de](https://cmcc.ufabc.edu.br))
-* [GeGRAV GitHub]([https://github.com/gegrav-ufabc/gegrav-ufabc.github.io](https://github.com/gegrav-ufabc))
+* [CMCC - UFABC](http://quantumtensor.pks.mpg.de](https://cmcc.ufabc.edu.br))
+* [GeGRAV GitHub](https://github.com/gegrav-ufabc/gegrav-ufabc.github.io](https://github.com/gegrav-ufabc))
 * [FAPESP](https://fapesp.br)
 <!--* [Tensors.net](https://www.tensors.net)
 * [TensorTrace](https://www.tensortrace.com)-->
 
-Other open-source packages and repository
-* [Zenodo]([https://github.com/jcmgray/quimb](https://zenodo.org))
-* [Julia Language]([http://itensor.org](https://julialang.org))
+Other open-source packages and repositories
+* [Zenodo](https://github.com/jcmgray/quimb](https://zenodo.org))
+* [Julia Language](http://itensor.org](https://julialang.org))
 * [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 * [Python](https://www.python.org)
 * [GitHub](https://github.com)

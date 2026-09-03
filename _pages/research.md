@@ -225,8 +225,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_tensornetwork" aria-expanded="false" aria-controls="text_tensornetwork">
   <text transform="matrix(1, 0, 0, 1, 485.609, 173.5)">
-	<tspan x="-30.192" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">tensor</tspan>
-	<tspan x="-44.64" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">networks</tspan>
+	<tspan x="-30.192" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060"> ? </tspan>
+	<tspan x="-44.64" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060"> </tspan>
   </text>
   </a>
   <g>
@@ -277,9 +277,9 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_matrixproductstates" aria-expanded="false" aria-controls="text_matrixproductstates">
   <text transform="matrix(1, 0, 0, 1, 378, 300)">
-	<tspan x="-31.548" y="-25" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">matrix </tspan>
-	<tspan x="-40.236" y="4" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">product </tspan>
-	<tspan x="-31.104" y="33" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">states</tspan>
+	<tspan x="-31.548" y="-25" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> </tspan>
+	<tspan x="-40.236" y="4" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> ? </tspan>
+	<tspan x="-31.104" y="33" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> </tspan>
   </text>
   </a>
   <g>
@@ -331,9 +331,9 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_quantumerrorcorrection" aria-expanded="false" aria-controls="text_quantumerrorcorrection">
   <text transform="matrix(1, 0, 0, 1, 294, 144)">
-	<tspan x="-45.996" y="-25" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">quantum </tspan>
-	<tspan x="-24.024" y="4" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">error </tspan>
-	<tspan x="-51.588" y="33" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">correction</tspan>
+	<tspan x="-45.996" y="-25" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">  </tspan>
+	<tspan x="-24.024" y="4" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> ? </tspan>
+	<tspan x="-51.588" y="33" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> </tspan>
   </text>
   </a>
   <g>
@@ -358,8 +358,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_entanglementscaling" aria-expanded="false" aria-controls="text_entanglementscaling">
   <text transform="matrix(1, 0, 0, 1, 173.048, 497.5)">
-	<tspan x="-70.236" y="-6.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">entanglement</tspan>
-	<tspan x="-35.784" y="22.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">scaling</tspan>
+	<tspan x="-70.236" y="-6.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> ? </tspan>
+	<tspan x="-35.784" y="22.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> </tspan>
   </text>
   </a>
   <g>
@@ -385,8 +385,8 @@ permalink: /research/
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_stronglycorrelatedsystems" aria-expanded="false" aria-controls="text_stronglycorrelatedsystems">
   <text transform="matrix(1, 0, 0, 1, 689.609, 455.5)">
 	<!--<tspan x="-40.452" y="-25.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"></tspan>-->
-	<tspan x="-51.588" y="3.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Semiclassical</tspan>
-	<tspan x="-42.648" y="32.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Gravity</tspan>
+	<tspan x="-52.588" y="3.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Semiclassical</tspan>
+	<tspan x="-40.648" y="32.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">Gravity</tspan>
   </text>
   </a>
   <g>
@@ -398,9 +398,9 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_algorithmssimulations" aria-expanded="false" aria-controls="text_algorithmssimulations">
   <text transform="matrix(1, 0, 0, 1, 666, 107.5)">
-	<tspan x="-53.556" y="-25.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">algorithms</tspan>
+	<tspan x="-53.556" y="-25.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> ? </tspan>
 	<tspan x="-7.332" y="3.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">&amp;</tspan>
-	<tspan x="-57.54" y="32.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">simulations</tspan>
+	<tspan x="-57.54" y="32.5" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> </tspan>
   </text>
   </a>
   <g>
@@ -412,8 +412,8 @@ permalink: /research/
   </g>
   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_realspacerenormalization" aria-expanded="false" aria-controls="text_realspacerenormalization">
   <text transform="matrix(1, 0, 0, 1, 672, 246)">
-	<tspan x="-54.024" y="-7" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">real-space</tspan>
-	<tspan x="-78.024" y="22" font-family="HelveticaNeue-Light" font-size="24" fill="#808080">renormalization</tspan>
+	<tspan x="-54.024" y="-7" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> ? </tspan>
+	<tspan x="-78.024" y="22" font-family="HelveticaNeue-Light" font-size="24" fill="#808080"> </tspan>
   </text>
   </a>
   <g>

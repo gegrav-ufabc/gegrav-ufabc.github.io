@@ -12,13 +12,14 @@
   #photo: FOTOSanderDeMeyer.jpg
   info: PhD student
   email: eduardo.albacete@ufabc.edu.br
-  #github: sanderdemeyer
+  site: http://lattes.cnpq.br/1982163277351212
 
 - name: Enzo Boschilia Vita
   sname: Enzo
   #photo: FOTOBorisDeVos.jpg
   info: Master student
   email: enzo.vita@ufabc.edu.br
+  site: http://lattes.cnpq.br/7660579732224107
 
 - name: Gabriel Maia Leão
   sname: Gabriel
@@ -26,6 +27,7 @@
   #orcid: 0000-0002-7664-0384
   info: Master student
   email: gabriel.maia@ufabc.edu.br
+  site: http://lattes.cnpq.br/1400553484572523
 
 - name: Lucas Tobias de Paula
   sname: Lucas
@@ -33,27 +35,28 @@
 #  site: https://20akshay00.github.io/
   info: PhD student
   email: tobias.l@ufabc.edu.br
-# github: 20akshay00
+  site: http://lattes.cnpq.br/4320263713790319
 
 - name: Mário Raia Neto
   sname: Mário
 #  photo: FOTOclaratanghe.jpg
   info: Master student
   email: m.raia@ufabc.edu.br
+  site: http://lattes.cnpq.br/4527857865407846
 
 - name: Murillo Spadin Domingues
   sname: Murillo
 #  photo: FOTObramvancraeynest.jpg
   info: PhD student
   email: murillo.spadin@ufabc.edu.br
-#  scholar: EucAISwAAAAJ
+  site: http://lattes.cnpq.br/8520770420299517
 
 - name: Pedro de Carvalho Zottolo
   sname: Pedro
 #  photo: FotoVictor.png
   info: PhD student
   email: pedro.zottolo@ufabc.edu.br
-#  github: VictorVanthilt
+  site: http://lattes.cnpq.br/6953245368342309
 #  scholar: nzNK1woAAAAJ
 
 #- name: Kevin Vervoort
